@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JS, React, JPA**
 
-- 🚀 I'm currently interested in : **Docker, cri-o**
+- 🚀 I'm currently interested in : **Docker, cri-o, AWS**
 
 - 💬 Ask me about **Dog💛**
 
