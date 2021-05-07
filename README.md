@@ -11,7 +11,7 @@
   <!--</div> -->
 
 
-- 🌱 I’m  currently learning **JS, React, JPA**
+- 🌱 I’m currently learning **JS, React, JPA**
 
 - 🚀 I'm currently interested in : **Docker, cri-o, AWS**
 
