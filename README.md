@@ -15,9 +15,9 @@
 
 - 🚀 I'm currently interested in  : **Docker, cri-o, AWS**
 
-- 💬 Ask me about **Dog💛**
+- 💬 Ask me about  **Dog💛**
 
-- 📫 How to reach me  **mango4815@gmail.com**
+- 📫 How to reach me **mango4815@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
