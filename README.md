@@ -11,7 +11,7 @@
   <!--</div> -->
 
 
-- 🌱 I’m currently learning  **React, Nest.js, TypeScript, Docker**
+- 🌱 I’m currently learning  **React, Nest.js, TypeScript, Docker, Jenkins**
 
 - 🚀 I'm currently interested in  :  **AWS, JPA**
 
