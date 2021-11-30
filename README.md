@@ -19,9 +19,7 @@
 
 - 📫 How to reach me   **mango4815@gmail.com**
 
-
-
-<br><br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corazon4815&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
