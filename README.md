@@ -11,10 +11,10 @@
   <!--</div> -->
 
 
-- 🌱 I’m currently learning  **React, Nest.js, TypeScript, Docker, Azure**
+- 🌱 I’m currently learning  **React, Azure, AWS, JPA**
 
-- 🚀 I'm currently interested in  :  **AWS, JPA**
-
+- 🚀 I'm currently interested in  : **Nest.js, TypeScript, Docker** 
+ 
 - 💬 Ask me about **Dog💛**
 
 - 📫 How to reach me   **mango4815@gmail.com**
