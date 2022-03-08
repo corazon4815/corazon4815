@@ -11,9 +11,9 @@
   <!--</div> -->
 
 
-- 🌱 I’m currently learning  **Azure, AWS, JPA, Spring Boot**
+- 🌱 I’m currently learning  **AWS, JPA, Spring Boot**
 
-- 🚀 I'm currently interested in  : **Nest.js, TypeScript, Docker** 
+- 🚀 I'm currently interested in  : **Kotlin, TypeScript, Docker** 
  
 - 💬 Ask me about **Dog💛**
 
