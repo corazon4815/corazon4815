@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning  **AWS, JPA, Spring Boot**
 
-- 🚀 I'm currently interested in  : **Kotlin, TypeScript, Docker** 
+- 🚀 I'm currently interested in  : **Go, Kotlin, TypeScript, Docker** 
  
 - 💬 Ask me about **Dog💛**
 
