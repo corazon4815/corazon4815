@@ -21,4 +21,6 @@
 
 <br>
 
+<img width="50% src="https://user-images.githubusercontent.com/69441691/214793487-e3759c94-107f-4a56-9c5a-fb4ba6b1baec.png"/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corazon4815&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
