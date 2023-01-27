@@ -10,6 +10,7 @@
 	
   <!--</div> -->
 
+- 🥑 I’m **Back-End Developer**
 
 - 🌱 I’m currently learning  **AWS, JPA, Spring Boot**
 
