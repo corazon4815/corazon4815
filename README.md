@@ -23,5 +23,3 @@
 <br>
 <img style="width:50px" src = "https://user-images.githubusercontent.com/69441691/214794013-b74be5ad-0d7e-44df-9109-f346b4c9f9fd.png">
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corazon4815&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
