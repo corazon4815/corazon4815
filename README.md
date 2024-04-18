@@ -4,13 +4,9 @@
 	
 - 🥑 I’m **Back-End Developer**
 
-- 🌱 I’m currently learning  **AWS, JPA, Spring Boot**
+- 🌱 I’m currently learning  **JPA, Kotlin, TypeScript**
 
-- 🚀 I'm currently interested in  : **Go, Kotlin, TypeScript, Docker** 
- 
-- 💬 Ask me about **Dog💛**
-
-- 📫 How to reach me   **mango4815@gmail.com**
+- 🚀 I'm currently interested in  : **Go, Docker, Kubernetes** 
   
 </p>
   
