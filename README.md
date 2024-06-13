@@ -9,7 +9,7 @@
 - 🚀 I'm currently interested in  : **Go, Docker, Kubernetes** 
   
 </p>
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/corazon4815" width="40%"/> </a>
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/corazon4815" width="60%"/> </a>
   
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
 
