@@ -4,9 +4,9 @@
 	
 - 🥑 I’m **Back-End Developer**
 
-- 🌱 I’m currently learning  **JPA, Kotlin, TypeScript**
+- 🌱 I’m currently learning  **Docker**
 
-- 🚀 I'm currently interested in  : **Go, Docker, Kubernetes** 
+- 🚀 I'm currently interested in  : **Docker, Kubernetes** 
   
 </p>
 <a href="https://github.com/devxb/gitanimals">
